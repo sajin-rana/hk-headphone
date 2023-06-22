@@ -6,7 +6,7 @@
               user experience, making it easy for customers to find and purchase 
               the headphone they need</p>
 
-👉 Live Demo: <a href=''>Hk Headphone</a>
+
 
 <h3>Build with:</h3>
 
